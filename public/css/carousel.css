@@ -41,6 +41,17 @@ body {
     margin-bottom: 1.5rem;
     text-align: center;
 }
+
+.marketing .col-md-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.marketing .col-md-1 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
 .marketing h2 {
     font-weight: 400;
 }
