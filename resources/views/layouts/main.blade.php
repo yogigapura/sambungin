@@ -15,7 +15,7 @@
     
     <!-- Custom styles for this template -->
     <link href="/css/carousel.css" rel="stylesheet">
-    <title>Sambungin | {{ $title }} </title>
+    <title>SAMBUNGIN | {{ $title }} </title>
   </head>
   <body>
     @include('partials.navbar')
