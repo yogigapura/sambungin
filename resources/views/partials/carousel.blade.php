@@ -6,16 +6,14 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> 
-        -->
-      
-        <img src="mg/dizzy.jpg" width="100%" height="100%">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> 
+        
 
         <div class="container">
           <div class="carousel-caption text-start">
             <h1>Pusing memilih internet service provider untuk rumah atau usaha anda?</h1>
             <p>Sama saya juga. Hehehe...</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+            <p><a class="btn btn-lg btn-primary" href="#">Register</a></p>
           </div>
         </div>
       </div>
@@ -93,7 +91,7 @@
     </div><!-- /.row -->
 
 
-    <!-- START THE FEATURETTES -->
+    <!-- START THE FEATURETTES 
 
     <hr class="featurette-divider">
 
@@ -133,6 +131,7 @@
 
       </div>
     </div>
+    -->
 
     <hr class="featurette-divider">
 
