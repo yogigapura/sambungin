@@ -24,6 +24,7 @@
     
     <!-- Custom styles for this template -->
     <link href="/css/carousel.css" rel="stylesheet">
+    <link href="/css/whatsapp.css" rel="stylesheet">
     <title>SAMBUNGIN | {{ $title }} </title>
   </head>
   <body>
@@ -39,10 +40,15 @@
     <main>
 
    @include('partials.carousel')  
-   
-   <div class="container mt-4">
-    @yield('container')
-</div>
+    <div class="container mt-4">
+      @yield('container')
+    </div>
+
+
+    @include('partials.whatsapp')
+    <div class="container mt-2">
+      @yield('container')
+    </div>
       
         <!-- FOOTER -->
         <footer class="container">
